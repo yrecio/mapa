@@ -1,0 +1,24 @@
+{
+    "semana": 8,
+    "estado": {
+        "cantabricoOriental": 84.9,
+        "cantabricoOccidental": 79.4,
+        "miñoSil": 73.7,
+        "galiciaCosta": 86.8,
+        "cuencasPaisVasco": 95.2,
+        "duero": 71.1,
+        "tajo": 61.5,
+        "guadiana": 48.1,
+        "tintoOdielPiedras": 93,
+        "guadaleteBarbate": 30.1,
+        "guadalquivir": 40.5,
+        "vertienteAtlantica": 56.7,
+        "cuencasMediterraneasAndaluzas": 29.3,
+        "segura": 19.5,
+        "jucar": 51.8,
+        "ebro": 78.8,
+        "cuencasCat": 31.2,
+        "vertiendeMediterranea": 61.6,
+        "totalPeninsular": 57.9
+    }
+}
